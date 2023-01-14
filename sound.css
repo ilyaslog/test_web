@@ -1,0 +1,28 @@
+h1{
+    border-style: solid;
+    border-radius: 10px;
+    border-width: 5px;
+    padding: 25px;
+    border-color: black;
+    text-shadow: 2px 2px 0px gray;
+    box-shadow: 10px 10px;
+}
+html{
+    
+    background-color:salmon;
+    background-repeat: no-repeat;
+   background-position: center;
+   background-size: contain;
+   background-attachment: fixed;
+  
+}
+table{
+    border-style: solid;
+    border-radius: 10px;
+    border-width: 5px;
+    padding: 25px;
+    border-color: black;
+    text-shadow: 2px 2px 0px gray;
+    box-shadow: 10px 10px;
+
+}
